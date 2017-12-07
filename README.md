@@ -1,3 +1,6 @@
+# Reference
+http://www.cicoria.com/ensuring-initializing-and-server-side-configuration-with-angular/
+
 # BootstrapLoader
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.3.
